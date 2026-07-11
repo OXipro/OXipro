@@ -69,7 +69,14 @@ Today, I mainly develop around the PaperMC ecosystem and enjoy building performa
 
 I also enjoy building embedded projects.
 
-I've worked with:
+I've worked with:<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OXipro&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OXipro&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OXipro&theme=tokyonight&hide_border=true"/>
+</p>
 
 * Arduino
 * ESP8266 / ESP32
@@ -93,14 +100,16 @@ I'm also quite comfortable with PC hardware:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=OXipro&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OXipro&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=OXipro&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
+
+Working on it
 
 ---
 
@@ -110,15 +119,6 @@ I'm also quite comfortable with PC hardware:
 * 🏗️ Better infrastructure & orchestration
 * 📦 Improving Docker workflows
 * ⚡ Scaling Minecraft networks
-
----
-
-## 💬 Fun Facts
-
-* ❤️ Minecraft has been my biggest source of motivation to learn programming.
-* 🐧 Arch Linux user, by the way.
-* 🏠 I enjoy experimenting with homelabs and self-hosted services.
-* 🔧 I like understanding both software and hardware.
 
 ---
 
