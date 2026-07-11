@@ -1,9 +1,5 @@
 # 👋 Hey, I'm OXipro
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,docker,kubernetes,idea,vscode,linux,arch,debian,ubuntu,mysql,redis,maven,git,github" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -19,7 +15,7 @@ Today, I mainly develop around the PaperMC ecosystem and enjoy building performa
 ## 🛠️ Main Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,maven,python,docker,kubernetes,redis,mysql,git,github,idea,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,docker,redis,git,idea,vscode" />
 </p>
 
 ### Minecraft Development
